@@ -314,7 +314,7 @@ clear
 echo -e "${gray}                                                ..${null}"
 echo -e "${Gray}..................................              ..${null}"
 echo -e ""
-echo -e "${yellow} type [repy] to start"${null}
+echo -e "${yellow} type [repy-frost] to start"${null}
 echo -e ""
 echo -e ""
 echo -e "${Gray}..................................              ..${null}"
